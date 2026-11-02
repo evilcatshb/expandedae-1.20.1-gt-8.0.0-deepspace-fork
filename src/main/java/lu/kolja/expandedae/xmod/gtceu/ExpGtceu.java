@@ -1,7 +1,7 @@
 package lu.kolja.expandedae.xmod.gtceu;
 
-import com.lowdragmc.lowdraglib.gui.texture.ResourceTexture;
+import brachy.modularui.drawable.UITexture;
 
 public class ExpGtceu {
-    public static final ResourceTexture MULTIPLY_OVERLAY = new ResourceTexture("expandedae:textures/gui/widget/multiply_overlay.png");
+    public static final UITexture MULTIPLY_OVERLAY = UITexture.fullImage("expandedae:textures/gui/widget/multiply_overlay.png");
 }
